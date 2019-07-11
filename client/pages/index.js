@@ -1,1 +1,1 @@
-export default () => <div>Welcome to next.js ttb!</div>;
+export default () => <div>Welcome to next.js!</div>;
