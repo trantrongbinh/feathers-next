@@ -1,8 +1,4 @@
-
-
 const processName = require('../../hooks/process-name');
-
-//hook Criada está aqui
 
 module.exports = {
   before: {
