@@ -56,14 +56,3 @@ describe('Feathers application tests (with jest)', () => {
     });
   });
 });
-
-
-// const sum = require('./sum');
-
-// describe('Examining the syntax of Jest tests', () => {
-   
-//   it('adds 1 + 2 to equal 3', () => {
-//       expect(sum(1, 2)).toBe(3);
-//    });
-// });
-

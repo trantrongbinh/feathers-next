@@ -5,6 +5,7 @@ const handle = require('../nextApp').handle;
 // it will be passed to next.js
 const feathersServices = {
   '/users': true,
+  '/messages': true,
 };
 
 const isFeathersService = path => feathersServices[path] === true;
